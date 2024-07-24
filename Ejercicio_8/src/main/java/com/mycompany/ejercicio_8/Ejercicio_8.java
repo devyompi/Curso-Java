@@ -20,7 +20,7 @@ public class Ejercicio_8 {
         b = entrada.nextDouble();
         System.out.println("Ingrese c: ");
         c = entrada.nextDouble();
-        //antony maricon
+        //proceso
         potencia = Math.pow(b,2);
         res = potencia-(4*a*c);
         raiz = Math.sqrt(-res);
