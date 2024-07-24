@@ -10,8 +10,9 @@ import java.util.Scanner;
 public class Ejercicio_8 {
 
     public static void main(String[] args) {
-        
+        //scanner
         Scanner entrada = new Scanner(System.in);
+        //declaracion de variables
         double a=0, b=0, c=0, potencia=0, raiz=0, res=0, res1=0, res2=0; 
         double x1,x2 = 0;
         System.out.println("Ingrese a: ");
