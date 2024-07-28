@@ -14,7 +14,7 @@ public class Ciclos_Ejercicio_8 {
 
     public static void main(String[] args) {
       
-      int numeros,i=0;
+      int numeros,i=1;
       
       numeros = Integer.parseInt(JOptionPane.showInputDialog("Digite la cantidad de numeros:"));
       
